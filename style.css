@@ -1,0 +1,90 @@
+*{  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.text-content {
+    padding-top: 90px;
+    text-align: center;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.button {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 43px;
+    margin: 0px 3px;
+    padding: 12px 14px;
+    border: 1.5px solid #000;
+    background-color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button1 {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 43px;
+    background-color: #880808;
+    color: #fff;
+    margin: 0px 3px;
+    padding: 12px 14px;
+    border: 1.5px solid #880808;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button2 {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 43px;
+    background-color: #355E3B;
+    color: #fff;
+    margin: 0px 3px;
+    padding: 12px 14px;
+    border: 1.5px solid #355E3B;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.row1 {
+    margin: 8px 0px;
+}
+
+.row2 {
+    margin: 8px 0px;
+}
+
+.row3 {
+    margin: 8px 0px;
+}
+
+.row4 {
+    margin: 8px 0px;
+}
+
+.row5 {
+    margin: 8px 0px;
+}
+
+.result-box {
+    padding-top: 23px;
+    
+}
+
+.result-box input {
+    margin: 0;
+    width: 200px;
+    padding: 10px 10px;
+    font-size: 17px;
+    color: #000;
+    border: 1.5px solid #000;
+    border-radius: 5px;
+}
+
